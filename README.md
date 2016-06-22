@@ -1,5 +1,5 @@
 # Foraging platform
-This is the software and hardware designs to produce a low-power datalogger for remote monitoring fruit ripeness. Included in this repository is 
+This is the software and hardware designs to produce a low-power datalogger for remote monitoring fruit ripeness. Included in this repository is:
 
 1. arduino code for the datalogger itself
 2. schematics and PCB designs for custom, low-power arduino variants in  Eagle and Gerber format
