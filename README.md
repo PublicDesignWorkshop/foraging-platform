@@ -24,7 +24,7 @@ Right now, the platform uses a real-time clock module to wake a custom Arduino b
 ![photo3](https://cloud.githubusercontent.com/assets/16662/16592088/fc459880-42ac-11e6-8457-b8b0ef2db25a.png)
 
 ###Technical Details
-[Bill of Materials](https://docs.google.com/spreadsheets/d/1Vs3_GVGOHFVuYa3o1AHFbKYVgtYUHnmqFQ5do5olbm8/edit#gid=990807043) - includes notes for datalogging, WiFi and cellular versions)
+[Bill of Materials](https://docs.google.com/spreadsheets/d/1Vs3_GVGOHFVuYa3o1AHFbKYVgtYUHnmqFQ5do5olbm8/edit#gid=990807043) - includes notes for datalogging, WiFi and cellular versions
 
 #####Hardware and software dependencies
 The Real-Time Clock used in these files is here: [SparkFun DeadOn RTC Breakout - DS3234](https://www.sparkfun.com/products/10160)
