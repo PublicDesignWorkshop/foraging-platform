@@ -26,12 +26,12 @@ Right now, the platform uses a real-time clock module to wake a custom Arduino b
 ###Technical Details
 [Bill of Materials](https://docs.google.com/spreadsheets/d/1Vs3_GVGOHFVuYa3o1AHFbKYVgtYUHnmqFQ5do5olbm8/edit#gid=990807043) - includes notes for datalogging, WiFi and cellular versions)
 
-####Hardware and software dependencies
+#####Hardware and software dependencies
 The Real-Time Clock used in these files is here: [SparkFun DeadOn RTC Breakout - DS3234](https://www.sparkfun.com/products/10160)
 
 The libraries that these sketches use are the SD card library included with the Arduino IDE, [ManiacBug's fork of RTClib](https://github.com/maniacbug/RTClib) and [Rodan's DS3234 Library](https://github.com/rodan/ds3234). For energy management, [Enerlib](http://playground.arduino.cc/Code/Enerlib) is used.
 
-####Potential future comm/sensor choices
+#####Potential future comm/sensor choices
 Cell phone breakout board and pay-as-you-go SIM card options:
 
 * https://www.adafruit.com/products/1963
@@ -47,7 +47,7 @@ Inexpensive WiFi breakout board
 * http://randomnerdtutorials.com/21-arduino-modules-you-can-buy-for-less-than-2/
 
 ###Problems and Issues
-####Accuracy Issues
+#####Accuracy Issues
 There are a couple of obvious issues with this setup. The first is that the weight of fruit is the proxy for ripeness. This is not as much of a problem as it could be, because knowing when fruit gets heavy means that volunteer resources could be used to check on it for more detailed results. Additionally, we are experimenting with combinations of gas sensors to more properly detect ripeness itself.
-####Technical Issues
+#####Technical Issues
 By far the most limiting issues we’ve come across have been technical. Detecting a bend is not very difficult, and building out a low-power sensor board as well as the industrial design planning to deploy the platform has been relatively straightforward. However, the initial vision of a wireless, long-term deployment has been difficult. Even sensing and sending bend every 24 hours doesn’t come very close to the long-term deployment envisioned.
