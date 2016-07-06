@@ -26,7 +26,7 @@ Right now, the platform uses a real-time clock module to wake a custom Arduino b
 ###Technical Details
 [Bill of Materials](https://docs.google.com/spreadsheets/d/1Vs3_GVGOHFVuYa3o1AHFbKYVgtYUHnmqFQ5do5olbm8/edit#gid=990807043) - includes notes for datalogging, WiFi and cellular versions
 
-#####Hardware and software dependencies
+####Hardware and software dependencies
 
 Hardware:
 
@@ -40,7 +40,7 @@ Software Libraries:
 * [Rodan's DS3234 Library](https://github.com/rodan/ds3234)
 * [Enerlib](http://playground.arduino.cc/Code/Enerlib)
 
-#####Potential future comm/sensor choices
+####Potential future comm/sensor choices
 Cell phone breakout board and pay-as-you-go SIM card options:
 
 * https://www.adafruit.com/products/1963
