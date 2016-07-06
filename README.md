@@ -27,9 +27,18 @@ Right now, the platform uses a real-time clock module to wake a custom Arduino b
 [Bill of Materials](https://docs.google.com/spreadsheets/d/1Vs3_GVGOHFVuYa3o1AHFbKYVgtYUHnmqFQ5do5olbm8/edit#gid=990807043) - includes notes for datalogging, WiFi and cellular versions
 
 #####Hardware and software dependencies
-The Real-Time Clock used in these files is here: [SparkFun DeadOn RTC Breakout - DS3234](https://www.sparkfun.com/products/10160)
 
-The libraries that these sketches use are the SD card library included with the Arduino IDE, [ManiacBug's fork of RTClib](https://github.com/maniacbug/RTClib) and [Rodan's DS3234 Library](https://github.com/rodan/ds3234). For energy management, [Enerlib](http://playground.arduino.cc/Code/Enerlib) is used.
+Hardware:
+
+* [SparkFun DeadOn RTC Breakout - DS3234](https://www.sparkfun.com/products/10160)
+* [LC Tech Mini SD Card Module](http://www.chinalctech.com/index.php?_m=mod_product&_a=view&p_id=646)
+
+Software Libraries
+
+* SD card library included with the Arduino IDE
+* [ManiacBug's fork of RTClib](https://github.com/maniacbug/RTClib)
+* [Rodan's DS3234 Library](https://github.com/rodan/ds3234)
+* [Enerlib](http://playground.arduino.cc/Code/Enerlib)
 
 #####Potential future comm/sensor choices
 Cell phone breakout board and pay-as-you-go SIM card options:
