@@ -21,7 +21,7 @@ Right now, the platform uses a real-time clock module to wake a custom Arduino b
 
 ![photo2](https://cloud.githubusercontent.com/assets/16662/16592088/fc459880-42ac-11e6-8457-b8b0ef2db25a.png)
 
-![photo3](https://cloud.githubusercontent.com/assets/16662/16592088/fc459880-42ac-11e6-8457-b8b0ef2db25a.png)
+![photo3](https://cloud.githubusercontent.com/assets/16662/16592090/fc486c5e-42ac-11e6-83a2-faa7677220a8.png)
 
 ###Technical Details
 [Bill of Materials](https://docs.google.com/spreadsheets/d/1Vs3_GVGOHFVuYa3o1AHFbKYVgtYUHnmqFQ5do5olbm8/edit#gid=990807043) - includes notes for datalogging, WiFi and cellular versions
