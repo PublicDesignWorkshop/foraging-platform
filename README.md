@@ -33,9 +33,9 @@ Hardware:
 * [SparkFun DeadOn RTC Breakout - DS3234](https://www.sparkfun.com/products/10160)
 * [LC Tech Mini SD Card Module](http://www.chinalctech.com/index.php?_m=mod_product&_a=view&p_id=646)
 
-Software Libraries
+Software Libraries:
 
-* SD card library included with the Arduino IDE
+* [SD Library](https://www.arduino.cc/en/Reference/SD)
 * [ManiacBug's fork of RTClib](https://github.com/maniacbug/RTClib)
 * [Rodan's DS3234 Library](https://github.com/rodan/ds3234)
 * [Enerlib](http://playground.arduino.cc/Code/Enerlib)
