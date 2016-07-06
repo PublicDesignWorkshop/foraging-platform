@@ -35,7 +35,6 @@ The libraries that these sketches use are the SD card library included with the 
 Cell phone breakout board and pay-as-you-go SIM card options:
 
 * https://www.adafruit.com/products/1963
-
 * https://www.adafruit.com/products/1946
 
 Inexpensive WiFi breakout board
